@@ -93,11 +93,11 @@ A Spotify-inspired music player built with React featuring playlists, favorites,
     <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
   </a>
 
-  <a href="https://www.instagram.com/your_username" target="_blank">
+  <a href="https://[www.instagram.com/your_username](https://www.instagram.com/vithusan1225/)" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
-  <a href="https://www.facebook.com/your_username" target="_blank">
+  <a href="[https://www.facebook.com/your_username](https://web.facebook.com/vithusan.santhirakumar)" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 </p>
