@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:141E30,100:243B55&height=250&section=header&text=Vithusan%20Santhirakumar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Software%20Engineer%20in%20Progress&descAlignY=65&descSize=18" width="100%" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&height=260&section=header&text=Vithusan%20Santhirakumar&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Software%20Engineer%20in%20Progress&descAlignY=60&descSize=18" width="100%" />
 </p>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Java+%7C+React+%7C+PHP+Developer;AI+Enthusiast;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;Java+%7C+React+%7C+PHP+Developer;Exploring+Artificial+Intelligence;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
@@ -11,21 +12,23 @@
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-🎓 3rd Year Undergraduate at the **University of Colombo**
+🎓 **3rd Year Undergraduate**
+**BSc in Industrial Statistics & Mathematical Finance**
+University of Colombo
 
-📚 Studying **Industrial Statistics & Mathematical Finance**
+I am a passionate developer interested in building scalable software solutions, modern web applications, and AI-powered systems.
 
-💻 Passionate about **Software Engineering, Web Development, and Artificial Intelligence**
-
-🌱 Constantly learning modern technologies and building real-world projects.
-
-🎯 Looking for opportunities to grow as a **Full-Stack Developer**.
+* 💻 Focused on **Full-Stack Web Development**
+* 🤖 Exploring **Artificial Intelligence and Machine Learning**
+* 📊 Combining programming with my background in **Statistics and Data Analysis**
+* 🚀 Building projects to improve my software engineering skills
+* 🌱 Continuously learning and improving every day
 
 ---
 
-## 💻 Languages
+# 💻 Programming Languages
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,js,php,html,css,mysql"/>
@@ -33,7 +36,7 @@
 
 ---
 
-## 🛠️ Technologies & Tools
+# 🛠️ Tech Stack & Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,mysql,git,github,vscode,postman,npm,docker"/>
@@ -41,31 +44,41 @@
 
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Exploring
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,python,tensorflow,docker"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,react,nodejs,mongodb,docker"/>
 </p>
 
 ---
 
-## 📂 Featured Projects
+# 🚀 Featured Projects
 
-### 📚 Library Management System
+## 📚 Library Management System
 
-Java desktop application using Object-Oriented Programming concepts.
+A Java-based application developed using Object-Oriented Programming principles to manage books, users, and library operations.
 
-### 🔍 UniFinder – Lost & Found Portal
-
-PHP & MySQL web application for managing lost and found items.
-
-### 🎵 React Music Player
-
-A modern Spotify-inspired music player built using React.
+**Technologies:** Java • OOP Concepts
 
 ---
 
-## 📊 GitHub Statistics
+## 🔍 UniFinder – Lost & Found Portal
+
+A web-based platform that helps students report and manage lost and found items.
+
+**Technologies:** PHP • MySQL • HTML • CSS
+
+---
+
+## 🎵 React Music Player
+
+A Spotify-inspired music application with features such as searching, playlists, favorites, shuffle mode, and audio controls.
+
+**Technologies:** React • JavaScript • Web APIs
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=vithusan1225&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -79,16 +92,17 @@ A modern Spotify-inspired music player built using React.
 
 ---
 
-## 🎯 Career Goals
+# 🎯 Career Goals
 
-* 🚀 Become a Professional Full-Stack Developer
-* 🤖 Build AI-powered Applications
+* 🚀 Become a Professional Full-Stack Software Engineer
+* 🤖 Develop AI-powered applications
+* ☁️ Gain experience in Cloud Technologies
 * 🌍 Contribute to Open Source Projects
-* 📖 Continuously Improve My Technical Skills
+* 📈 Build impactful software solutions
 
 ---
 
-## 🤝 Connect With Me
+# 🤝 Let's Connect
 
 <p align="center">
 
@@ -108,16 +122,25 @@ A modern Spotify-inspired music player built using React.
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://web.facebook.com/vithusan.santhirakumar">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
 </p>
 
 ---
 
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+# ⭐ Open To Opportunities
+
+I am interested in:
+
+* 💼 Software Development Internships
+* 🌐 Full-Stack Development Opportunities
+* 🤖 AI & Data-driven Projects
+* 🤝 Open Source Collaborations
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
 
 <p align="center">
-I'm always interested in collaborating on exciting projects and learning from the developer community.
+Let's connect, collaborate, and build something amazing together 🚀
 </p>
