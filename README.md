@@ -80,11 +80,7 @@ A Spotify-inspired music application with features such as searching, playlists,
 
 # 📊 GitHub Analytics
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vithusan1225&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vithusan1225&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=vithusan1225&theme=tokyonight&hide_border=true"/>
