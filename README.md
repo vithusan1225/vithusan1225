@@ -1,15 +1,12 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" alt="Coding Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:141E30,100:243B55&height=250&section=header&text=Vithusan%20Santhirakumar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Software%20Engineer%20in%20Progress&descAlignY=65&descSize=18" width="100%" alt="Header"/>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Java+%7C+React+%7C+PHP+Developer;AI+Enthusiast;Always+Learning+New+Technologies" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Vithusan Santhirakumar</h1>
-
-<h3 align="center">
-Aspiring Full-Stack Developer • AI Enthusiast • BSc Undergraduate at the University of Colombo
-</h3>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vithusan1225&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=vithusan1225&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
