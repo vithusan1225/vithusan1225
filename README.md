@@ -1,41 +1,53 @@
-# Hi there 👋, I'm Vithusan Santhirakumar
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" alt="Coding Banner"/>
+</p>
 
-🎓 **3rd Year Undergraduate**
-**BSc in Industrial Statistics & Mathematical Finance**
-University of Colombo
+<h1 align="center">Hi 👋, I'm Vithusan Santhirakumar</h1>
+
+<h3 align="center">
+Aspiring Full-Stack Developer • AI Enthusiast • BSc Undergraduate at the University of Colombo
+</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vithusan1225&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-* 💻 Passionate about Software Development and Problem Solving.
-* 🌱 Currently exploring Full-Stack Web Development and AI.
-* 📊 Interested in Data Analysis, Statistics, and Machine Learning.
-* 🔨 I enjoy building web applications and learning new technologies.
-* 🎯 My goal is to become a skilled Full-Stack Developer.
+🎓 3rd Year Undergraduate at the **University of Colombo**
+
+📚 Studying **Industrial Statistics & Mathematical Finance**
+
+💻 Passionate about **Software Engineering, Web Development, and Artificial Intelligence**
+
+🌱 Constantly learning modern technologies and building real-world projects.
+
+🎯 Looking for opportunities to grow as a **Full-Stack Developer**.
 
 ---
 
 ## 💻 Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,php,html,css,mysql" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,js,php,html,css,mysql"/>
 </p>
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,mysql,git,github,vscode,postman,npm" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,mysql,git,github,vscode,postman,npm,docker"/>
 </p>
 
 ---
 
-## 📈 Currently Learning
+## 📚 Currently Learning
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,docker,python,tensorflow" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,python,tensorflow,docker"/>
 </p>
 
 ---
@@ -44,67 +56,71 @@ University of Colombo
 
 ### 📚 Library Management System
 
-A Java application for managing books and members using Object-Oriented Programming concepts.
+Java desktop application using Object-Oriented Programming concepts.
 
 ### 🔍 UniFinder – Lost & Found Portal
 
-A PHP & MySQL web application that allows students to report lost and found items.
+PHP & MySQL web application for managing lost and found items.
 
 ### 🎵 React Music Player
 
-A Spotify-inspired music player built with React featuring playlists, favorites, search, and shuffle.
+A modern Spotify-inspired music player built using React.
 
 ---
 
-## 🎯 Goals
-
-* 🚀 Become a Full-Stack Developer
-* ☁️ Learn Cloud Computing
-* 🤝 Contribute to Open Source Projects
-* 📚 Continuously improve my programming and problem-solving skills
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vithusan1225&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vithusan1225&layout=compact&theme=tokyonight" height="170" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vithusan1225&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vithusan1225&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vithusan1225&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=vithusan1225&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🎯 Career Goals
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/vithusan-santhirakumar-203473232/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/vithusan1225" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://www.fiverr.com/vithusan1225" target="_blank">
-    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
-  </a>
-
-  <a href="https://www.instagram.com/vithusan1225/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-
-  <a href="https://web.facebook.com/vithusan.santhirakumar" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-</p>
-
+* 🚀 Become a Professional Full-Stack Developer
+* 🤖 Build AI-powered Applications
+* 🌍 Contribute to Open Source Projects
+* 📖 Continuously Improve My Technical Skills
 
 ---
 
-⭐ **Thanks for visiting my GitHub profile!**
+## 🤝 Connect With Me
 
-Feel free to explore my repositories, leave a ⭐ if you like a project, or connect with me through any of the platforms above.
+<p align="center">
+
+<a href="https://github.com/vithusan1225">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vithusan-santhirakumar-203473232/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://www.fiverr.com/vithusan1225">
+<img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/vithusan1225/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://web.facebook.com/vithusan.santhirakumar">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+
+<p align="center">
+I'm always interested in collaborating on exciting projects and learning from the developer community.
+</p>
