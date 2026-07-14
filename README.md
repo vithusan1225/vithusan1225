@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&height=260&section=header&text=Vithusan%20Santhirakumar&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=BSc%20Industrial%20Statistics%20and%20Mathematical%20Finance%20%7C%20University%20of%20Colombo&descAlignY=60&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&height=260&section=header&text=Vithusan%20Santhirakumar&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Undergraduate%20ISMF%20%7C%20University%20of%20Colombo&descAlignY=60&descSize=18" width="100%" />
 </p>
 
 <p align="center">
@@ -14,32 +14,28 @@
 
 # 👨‍💻 About Me
 
-🎓 **3rd Year Undergraduate**
-**BSc in Industrial Statistics & Mathematical Finance**
-University of Colombo
-
-I am a passionate developer interested in building scalable software solutions, modern web applications, and AI-powered systems.
-
-* 💻 Focused on **Full-Stack Web Development**
-* 🤖 Exploring **Artificial Intelligence and Machine Learning**
-* 📊 Combining programming with my background in **Statistics and Data Analysis**
-* 🚀 Building projects to improve my software engineering skills
-* 🌱 Continuously learning and improving every day
+🎓 I am a 3rd Year Undergraduate student studying for a **BSc in Industrial Statistics & Mathematical Finance** at the **University of Colombo**.
+💻 I am passionate about **Full-Stack Web Development** and enjoy building modern web applications and scalable software solutions.
+🤖 I am exploring **Artificial Intelligence, Machine Learning, and Data Analysis** by combining programming with my statistics background.
+🚀 I continuously learn new technologies and improve my software engineering skills by working on real-world projects.
 
 ---
 
 # 💻 Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,js,php,html,css,mysql"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,php,mysql,r"/>
 </p>
+
+**Also familiar with:**  
+📊 Octave
 
 ---
 
 # 🛠️ Tech Stack & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,mysql,git,github,vscode,postman,npm,docker"/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,mysql,git,github,vscode,idea,npm"/>
 </p>
 
 ---
@@ -47,7 +43,8 @@ I am a passionate developer interested in building scalable software solutions, 
 # 📚 Currently Exploring
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,react,nodejs,mongodb,docker"/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
 ---
